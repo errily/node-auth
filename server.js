@@ -7,7 +7,7 @@ const app = express();
 
 var corsOptions = {
   // origin: "https://article-irfan.herokuapp.com",
-  origin :"holistic-taste.surge.sh"
+  origin :"http://holistic-taste.surge.sh"
 };
 
 
